@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1405086805 source:/home/amine/Bureau/smtp-server/smtp.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	"smtp.h"
+
+1405084843 /home/amine/Bureau/smtp-server/smtp.h
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+
+1399891302 /home/amine/Bureau/smtp-server/lib/base64.h
+
